@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-🔭 Front-end Developer<br>👯 I’m looking to Applying for front-end<br>🌱 I’m currently learning
+
 
 
 ## 🌐 Socials:
